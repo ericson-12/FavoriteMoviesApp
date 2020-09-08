@@ -6,5 +6,5 @@ App Screenshots:
 [![Screen Shot 2020-09-08 at 11.35.33 AM](https://i.imgur.com/TUt77J8.png)]
 [![Screen Shot 2020-09-08 at 11.35.59 AM](https://i.imgur.com/x0OpYuC.png)]
 [![Screen Shot 2020-09-08 at 11.36.13 AM](https://i.imgur.com/8iLvurv.png)]
-[![Screen Shot 2020-09-08 at 11.36.18 AM(https://i.imgur.com/TZVMw2e.png)]
+[![Screen Shot 2020-09-08 at 11.36.18 AM](https://i.imgur.com/TZVMw2e.png)]
 [![Screen Shot 2020-09-08 at 11.36.23 AM](https://i.imgur.com/z6QZetl.png)]
